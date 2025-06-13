@@ -10,8 +10,8 @@
     }
   ],
   "build": {
-    "appLocation": ".",
-    "apiLocation": "api",
+    "appLocation": "index.html",
+    "apiLocation": "index.html",
     "appArtifactLocation": ""
   }
 }
