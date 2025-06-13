@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "allowedRoles": ["anonymous"]
+    }
+  ],
+  "build": {
+    "appLocation": ".",
+    "apiLocation": "api",
+    "appArtifactLocation": ""
+  }
+}
